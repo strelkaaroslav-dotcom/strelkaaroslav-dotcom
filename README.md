@@ -1,6 +1,6 @@
 ### Hey there, I'm Yaroslav 👋
 
-Software engineering student passionate about software development, clean code, and building practical digital solutions.
+I like minons
 
 ---
 
@@ -20,14 +20,6 @@ Software engineering student passionate about software development, clean code, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-#### 📌 About Me
-
-- 💻 Focusing on software engineering, web development, and CS fundamentals.
-- 🎯 Always looking forward to building responsive, intuitive applications.
-- ⚡ In my free time, I play basketball and explore game mechanics.
 
 ---
 
