@@ -31,15 +31,6 @@ Software engineering student passionate about software development, clean code, 
 
 ---
 
-#### 📊 GitHub Profile Summary
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Active%20Student-2ea44f?style=for-the-badge&logo=github" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=strelkaaroslav-dotcom&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
----
-
 #### 📊 Most Used Languages & Activity
 
 <p align="left">
